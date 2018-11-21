@@ -1,0 +1,7 @@
+  
+
+ BufferedWriter bw = new BufferedWriter(  new FileWriter("bw.txt"));
+ BufferedWrite的 void newLine( ); //写一个换行符，这个换行符由操作系统决定
+                 void readLine( ); //读取一行数据，不读取换行符
+
+     中国  阿飞

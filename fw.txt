@@ -1,0 +1,11 @@
+ÄãºÃÄãºÃÄãºÃ 
+°¢·É  
+using namespace std;
+int main( )
+{ 
+  int a,b,c;
+  int x,y; int sum;
+
+
+return 0;
+}
